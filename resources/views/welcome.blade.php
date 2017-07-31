@@ -231,20 +231,7 @@
                         <p class="text-muted">Protótipo</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 projetos-item">
-                    <a href="#betaimoveis" class="projetos-link" data-toggle="modal">
-                        <div class="projetos-hover">
-                            <div class="projetos-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/betaimoveis.jpg" class="img-responsive" alt="">
-                    </a>
-                    <div class="projetos-caption">
-                        <h4>Beta Imóveis</h4>
-                        <p class="text-muted">Em construção</p>
-                    </div>
-                </div>
+                
                 
     </section>
     
