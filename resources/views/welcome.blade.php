@@ -557,7 +557,7 @@
                                 <h2>LockedCar</h2>
                                 <p class="item-intro text-muted">Protótipo</p>
                                 <!--<img class="img-responsive img-centered"  src="img/portfolio/lockedcar.jpg" alt=""> -->
-                                <img class="img-responsive img-centered" src="img/portfolio/lockedcar.jpeg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/lockedcar.png" alt="">
                                 
                                <!--  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                 <p>
