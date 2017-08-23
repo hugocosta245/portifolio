@@ -303,39 +303,6 @@
         </div>
     </section>
 
-    <!-- Team Section -->
-   
-
-    <!-- Clients Aside
-    <aside class="clients">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </aside> -->
-
-   
-
     <footer>
         <nav id="mainRodape" class="navbar navbar-default navbar-fixed-bottom">
           <div class="container">
@@ -587,7 +554,7 @@
                         <div class="col-lg-12 col-lg-offset-0">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2>lockedcar</h2>
+                                <h2>LockedCar</h2>
                                 <p class="item-intro text-muted">Protótipo</p>
                                 <!--<img class="img-responsive img-centered"  src="img/portfolio/lockedcar.jpg" alt=""> -->
                                 <img class="img-responsive img-centered" src="img/portfolio/lockedcar.jpg" alt="">
