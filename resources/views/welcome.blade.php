@@ -551,13 +551,13 @@
                 </div>
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
+                        <div class="col-lg-12 col-lg-offset-0">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>LockedCar</h2>
                                 <p class="item-intro text-muted">Protótipo</p>
                                 <!--<img class="img-responsive img-centered"  src="img/portfolio/lockedcar.jpg" alt=""> -->
-                                <img class="img-responsive img-centered" src="img/portfolio/lockedcar.png" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/lockedcar02.png" alt="">
                                 
                                <!--  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                 <p>
