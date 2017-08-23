@@ -96,7 +96,7 @@
                 </div>
                 <div class="col-lg-2 text-center">
                     <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/HugoFotoFormatura.png" alt="">
+                                <img class="img-circle img-responsive" src="img/HugoFotoFormatura.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -224,7 +224,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/lockedcar.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/lockedcar01.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="projetos-caption">
                         <h4>LockedCar</h4>
