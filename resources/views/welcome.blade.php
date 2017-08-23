@@ -590,9 +590,7 @@
                                 <h2>lockedcar</h2>
                                 <p class="item-intro text-muted">Protótipo</p>
                                 <!--<img class="img-responsive img-centered"  src="img/portfolio/lockedcar.jpg" alt=""> -->
-                                <object  width="1100" height="500"  data="img/portfolio/lockedcar.jpg" type="image/jpeg">
-                                          <p>Seu navegador não tem um plugin pra PDF</p>
-                                </object>
+                                <img class="img-responsive img-centered" src="img/portfolio/lockedcar.jpg" alt="">
                                <!--  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                 <p>
                                     <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
@@ -655,40 +653,6 @@
             </div>
         </div>
     </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
